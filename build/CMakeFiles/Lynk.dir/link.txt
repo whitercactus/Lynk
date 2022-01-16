@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/Lynk.dir/src/main.cpp.o -o Lynk  _deps/raylib-build/raylib/libraylib.a -lm -lpthread /usr/lib64/libGL.so /usr/lib64/libGLU.so _deps/raylib-build/raylib/external/glfw/src/libglfw3.a /usr/lib64/librt.a /usr/lib64/libm.so -ldl 

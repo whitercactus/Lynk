@@ -1,0 +1,6 @@
+==33040== Memcheck, a memory error detector
+==33040== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==33040== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==33040== Command: ./Lynk
+==33040== Parent PID: 31456
+==33040== 

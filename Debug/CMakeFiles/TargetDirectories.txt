@@ -1,0 +1,3 @@
+/home/nick/Code/Lynk/Debug/CMakeFiles/Lynk.dir
+/home/nick/Code/Lynk/Debug/CMakeFiles/edit_cache.dir
+/home/nick/Code/Lynk/Debug/CMakeFiles/rebuild_cache.dir

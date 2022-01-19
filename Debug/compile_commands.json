@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/nick/Code/Lynk/Debug",
-  "command": "/usr/bin/c++  -I/usr/include/SDL2 -g -o CMakeFiles/Lynk.dir/src/main.cpp.o -c /home/nick/Code/Lynk/src/main.cpp",
-  "file": "/home/nick/Code/Lynk/src/main.cpp"
-}
-]
